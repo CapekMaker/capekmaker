@@ -83,52 +83,52 @@
 | Attack on titan 3rd season | 2018 | 22 | ❌ |
 | Attack on titan 4th season | 2020 | 28 | ❌ |
 | Your lie in April | 2014 | 22 | ❌ |
-Tokyo Ghoul	2014	12
-Tokyo Ghoul vA	2015	12
-Tokyo Ghoul: "Jack"	2015	OVA
-Tokyo Ghoul: "Pinto"	2015	OVA
-No Game No Life	2014	12
-The Seven Deadly Sins	2014	24
-The Seven Deadly Sins OVA	2015	2
-The Seven Deadly Sins: Seisen no Shirushi	2016	4
-Haikyuu - 1st season	2014	25
-Haikyuu - 2nd season	2015	25
-Haikyuu - 3rd season	2016	10
-Haikyuu - 4th season	2020	25	
-One-Punch Man 1st S	2015	12
-One-Punch Man 2nd S	2019	12
-Your Name	2016	Peli
-Mob Psycho 100 I	2016	12
-Mob Psycho 100 II	2019	13
-Mob Psycho 100 III	2022	12
-New Game!	2016	12
-New Game! Watashi, Shain Ryokou tte Hajimete nano de...	2017	OVA
-My Hero Academia - 1st season	2016	13
-My Hero Academia - 2nd season	2017	25
-My Hero Academia - 3rd season	2018	25
-My Hero Academia - 4th season	2019	25
-My Hero Academia - 5th season	2021	25
-My Hero Academia - 6th season	2022	25
-New Game!!	2017	12
-Made in Abyss	2017	13
-Made in Abyss: Fukaki Tamashii no Reimei	2020	Peli
-Black Clover	2017	170
-Darling in the FranXX	2018	24
-Violet Evergarden	2018	13
-Dr. Stone	2019	24
-Kimetsu no Yaiba	2019	26
-Kimetsu no Yaiba: Mugen Ressha-hen	2020	Peli
-Kimetsu no Yaiba: Yuukaku-hen	2021	11
-Fruits Basket 1st S	2019	25
-Fruits Basket 2nd S	2020	25
-Vinland Saga	2019	24
-Vinland Saga Season 2	2023	24
-Jujutsu Kaisen 1st	2020	24
-Jujutsu Kaisen 2nd	2023	23
-Ranking of Kings	2021	23
-Chainsaw Man	2022	12
-Pluto	2023	8
-The apotecary diaries	2023	8
+| Tokyo Ghoul | 2014 | 12 | ✅ |
+| Tokyo Ghoul vA | 2015 | 12 | ❌ |
+| Tokyo Ghoul: "Jack" | 2015 | OVA | ❌ |
+| Tokyo Ghoul: "Pinto" | 2015 | OVA | ❌ |
+| No Game No Life | 2014 | 12 | ❌ |
+| The Seven Deadly Sins | 2014 | 24 | ❌ |
+| The Seven Deadly Sins OVA | 2015 | 2 | ❌ |
+| The Seven Deadly Sins: Seisen no Shirushi | 2016 | 4 | ❌ |
+| Haikyuu - 1st season | 2014 | 25 | ✅ |
+| Haikyuu - 2nd season | 2015 | 25 | ❌ |
+| Haikyuu - 3rd season | 2016 | 10 | ❌ |
+| Haikyuu - 4th season | 2020 | 25 | ❌ |
+| One-Punch Man 1st S | 2015 | 12 | ❌ |
+| One-Punch Man 2nd S | 2019 | 12 | ❌ |
+| Your Name | 2016 | Peli | ✅ |
+| Mob Psycho 100 I | 2016 | 12 | ✅ |
+| Mob Psycho 100 II | 2019 | 13 | ✅ |
+| Mob Psycho 100 III | 2022 | 12 | ✅ |
+| New Game! | 2016 | 12 | ✅ |
+| New Game! Watashi, Shain Ryokou tte Hajimete nano de... |	2017 | OVA | ✅ |
+| New Game!! | 2017 | 12 | ✅ |
+| My Hero Academia - 1st season | 2016 | 13 | ✅ |
+| My Hero Academia - 2nd season | 2017 | 25 | ✅ |
+| My Hero Academia - 3rd season | 2018 | 25 | ❌ | 20 |
+| My Hero Academia - 4th season | 2019 | 25 | ❌ |
+| My Hero Academia - 5th season | 2021 | 25 | ❌ |
+| My Hero Academia - 6th season | 2022 | 25 | ❌ |
+| Made in Abyss |2017 | 13 | ✅ |
+| Made in Abyss: Fukaki Tamashii no Reimei | 2020 | Peli | ✅ |
+| Black Clover | 2017 | 170 | ❌ | 51 |
+| Darling in the FranXX | 2018 | 24 | ❌ |
+| Violet Evergarden | 2018 | 13 | ❌ |
+| Dr. Stone | 2019 | 24 | ❌ |
+| Kimetsu no Yaiba | 2019 | 26 | ✅ |
+| Kimetsu no Yaiba: Mugen Ressha-hen | 2020 | Peli | ❌ |
+| Kimetsu no Yaiba: Yuukaku-hen | 2021 | 11 | ❌ |
+| Fruits Basket 1st S | 2019 | 25 | ❌ |
+| Fruits Basket 2nd S | 2020 | 25 | ❌ |
+| Vinland Saga | 2019 | 24 | ❌ |
+| Vinland Saga Season 2 | 2023 | 24 | ❌ |
+| Jujutsu Kaisen 1st | 2020 | 24 | ❌ |
+| Jujutsu Kaisen 2nd | 2023 | 23 | ❌ |
+| Ranking of Kings | 2021 | 23 | ✅ |
+| Chainsaw Man | 2022 | 12 | ✅ |
+| Pluto | 2023 | 8 | ❌ | 1 |
+| The apotecary diaries | 2023 | 8 | ❌ |
 
 
 
@@ -147,9 +147,28 @@ https://www.whakoom.com/aspeiscauboi/collection
 | Death Note | Norma | 3 | |
 | Maximum Berserk | Panini | 4 | |
 | Evangelion | Norma | 4 | |
-| Detectiu Conan | Planeta | 14 | |
+| Detectiu Conan | Planeta | 14 | 8,10€ |
 | Guardians de la nit | Norma | 2 | |
 | Jujutsu Kaisen | Norma | 2 | |
 | Dan da dan | Norma | 3 | |
+| Planeta Manga | Planeta | 21 | 5,65€ |
+| Pluto | Planeta | 2 | |
+| Akira | Norma | 3 | 18,95€ |
+| Matagi Gunner | Norma | 2 | |
+| Astroboy | Planeta | 1 | 24,00€ |
+| Ghost in the shell Stand Alone Complex | Planeta | 1 | 13,25€ |
+| Ghost in the shell | Planeta | 1 | 19,00€ |
+| Video Girl AI | Planeta | 1 | 16,10€ |
+| De de de de | Norma | 2 | |
+| Kajika | Planeta | 1 | 11,35€ |
+| Mankan Zenski | Planeta | 1 | 12,30€ |
+| Monster | Planeta | 1 |
+| Master Keaton | Planeta | 1 |
+| One Piece Boichi | Planeta | 1 |
+| Okaasan | Norma | 1 |
+| Journey: the art of Carles Dalmau | Norma | 1 |
+| DNA2 | ??? |
+| I"s | ??? |
+
 
 
