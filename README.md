@@ -107,7 +107,7 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 | New Game!! | 2017 | 12 | ✅ |
 | My Hero Academia - 1st season | 2016 | 13 | ✅ |
 | My Hero Academia - 2nd season | 2017 | 25 | ✅ |
-| My Hero Academia - 3rd season | 2018 | 25 | ❌ | 22 |
+| My Hero Academia - 3rd season | 2018 | 25 | ✅ |
 | My Hero Academia - 4th season | 2019 | 25 | ❌ |
 | My Hero Academia - 5th season | 2021 | 25 | ❌ |
 | My Hero Academia - 6th season | 2022 | 25 | ❌ |
@@ -142,32 +142,32 @@ Llista de les meves 79 col·leccions i 575 manga que tinc actualment.
 
 | Títol | Editorial | Tomo | Preu |
 | :- | :- | -: | -: |
-| Bola de drac Definitiva | Planeta | 20 | 12,30€ |
-| One Piece | Planeta | 5 | 16,00€ |
-| Death Note | Norma | 3 | |
-| Maximum Berserk | Panini | 4 | |
-| Evangelion | Norma | 4 | |
-| Ranma 1/2 | Planeta | 2 | |
-| Detectiu Conan | Planeta | 14 | 8,10€ |
-| Guardians de la nit | Norma | 2 | |
-| Jujutsu Kaisen | Norma | 2 | |
-| Dan da dan | Norma | 3 | |
-| Planeta Manga | Planeta | 21 | 5,65€ |
-| Pluto | Planeta | 2 | |
-| Akira | Norma | 3 | 18,95€ |
-| Matagi Gunner | Norma | 2 | |
-| Astroboy | Planeta | 1 | 24,00€ |
+| Bola de drac Definitiva | Planeta | 20/34 | 12,30€ |
+| One Piece | Planeta | 5/? | 16,00€ |
+| Death Note | Norma | 3/? | |
+| Maximum Berserk | Panini | 4/? | |
+| Evangelion | Norma | 4/? | |
+| Ranma 1/2 | Planeta | 2/? | |
+| Detectiu Conan | Planeta | 14/? | 8,10€ |
+| Guardians de la nit | Norma | 2/? | |
+| Jujutsu Kaisen | Norma | 2/? | |
+| Dan da dan | Norma | 3/? | |
+| Planeta Manga | Planeta | 21/? | 5,65€ |
+| Pluto | Planeta | 2/8 | |
+| Akira | Norma | 3/6 | 18,95€ |
+| Matagi Gunner | Norma | 2/? | |
+| Astroboy | Planeta | 1/7 | 24,00€ |
 | Ghost in the shell Stand Alone Complex | Planeta | 1 | 13,25€ |
-| Ghost in the shell | Planeta | 1 | 19,00€ |
-| Video Girl AI | Planeta | 1 | 16,10€ |
-| De de de de | Norma | 2 | |
+| Ghost in the shell | Planeta | 1/2 | 19,00€ |
+| Video Girl AI | Planeta | 1/? | 16,10€ |
+| De de de de | Norma | 2/12 | |
 | Kajika | Planeta | 1 | 11,35€ |
 | Mankan Zenski | Planeta | 1 | 12,30€ |
 | Monster | Planeta | 1 |
 | Master Keaton | Planeta | 1 |
-| One Piece Boichi | Planeta | 1 |
-| Okaasan | Norma | 1 |
-| Journey: the art of Carles Dalmau | Norma | 1 |
+| One Piece Boichi | Planeta | 1/2 |
+| Okaasan | Norma | 1/1 |
+| Journey: the art of Carles Dalmau | Norma | 1/1 |
 | DNA2 | ??? |
 | I"s | ??? |
 
