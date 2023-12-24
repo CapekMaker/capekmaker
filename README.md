@@ -1,7 +1,8 @@
-# Hi there 👋
-
+# Hola 👋
 
 ## - ANIME -
+
+Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 
 | Títol | Any | Nº Episodis | Vist | Visionant |
 | :- | :- | -: | :-: | :-: |
@@ -13,7 +14,7 @@
 | Musculman | 1983 | 137 | ✅ |
 | Bola de Drac | 1986 | 153 | ✅ |
 | Bola de Drac Z | 1989 | 291 | ✅ |
-| Mobile Suit Gundam: The Origin | 1979 | 6 | ❌ |
+| Mobile Suit Gundam: The Origin | 1979 | 6 | ❌ | 1 |
 | Gundam I | 1981 | Peli | ❌ |
 | Gundam II | 1981 | Peli | ❌ |
 | Gundam F91 | 1991 |	Peli | ❌ |
@@ -106,7 +107,7 @@
 | New Game!! | 2017 | 12 | ✅ |
 | My Hero Academia - 1st season | 2016 | 13 | ✅ |
 | My Hero Academia - 2nd season | 2017 | 25 | ✅ |
-| My Hero Academia - 3rd season | 2018 | 25 | ❌ | 20 |
+| My Hero Academia - 3rd season | 2018 | 25 | ❌ | 22 |
 | My Hero Academia - 4th season | 2019 | 25 | ❌ |
 | My Hero Academia - 5th season | 2021 | 25 | ❌ |
 | My Hero Academia - 6th season | 2022 | 25 | ❌ |
@@ -131,12 +132,11 @@
 | The apotecary diaries | 2023 | 8 | ❌ |
 
 
-
 ## - MANGA -
 
-### - COL·LECCIÓ TOTAL DE MANGA -
+Llista de les meves 79 col·leccions i 575 manga que tinc actualment.
 
-https://www.whakoom.com/aspeiscauboi/collection
+[<kbd>**LLISTA**](https://www.whakoom.com/aspeiscauboi/collection)</kbd>
 
 ### - COL·LECCIONS QUE ESTIC FENT ACTUALMENT -
 
@@ -147,6 +147,7 @@ https://www.whakoom.com/aspeiscauboi/collection
 | Death Note | Norma | 3 | |
 | Maximum Berserk | Panini | 4 | |
 | Evangelion | Norma | 4 | |
+| Ranma 1/2 | Planeta | 2 | |
 | Detectiu Conan | Planeta | 14 | 8,10€ |
 | Guardians de la nit | Norma | 2 | |
 | Jujutsu Kaisen | Norma | 2 | |
@@ -170,5 +171,26 @@ https://www.whakoom.com/aspeiscauboi/collection
 | DNA2 | ??? |
 | I"s | ??? |
 
+## - CONSOLES -
 
+Llista de totes les consoles que tinc.
+
+* Videopac G7000 Philips
+* Atari 2600 VCS
+* Sony MSX HB-20P Hit BIt
+* Nintendo NES
+* Sega Mega Drive
+* Nintendo Game Boy
+* Sony PlayStation
+* Sony PlayStation 2
+* Nintendo GameCube
+* Nintendo DS
+* Sony PSP
+* Microsoft Xbox360
+* Nintendo Wii
+* Sony PlayStation 3
+* Microsoft Xbox One
+* Nintendo Switch
+* Super Nintendo Classic Mini
+* PlayStation Classic
 
