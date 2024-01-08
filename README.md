@@ -14,7 +14,7 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 | Musculman | 1983 | 137 | ✅ |
 | Bola de Drac | 1986 | 153 | ✅ |
 | Bola de Drac Z | 1989 | 291 | ✅ |
-| Mobile Suit Gundam: The Origin | 1979 | 6 | ❌ | 2 |
+| Mobile Suit Gundam: The Origin | 1979 | 6 | ❌ | 5 |
 | Gundam I | 1981 | Peli | ❌ |
 | Gundam II | 1981 | Peli | ❌ |
 | Gundam F91 | 1991 |	Peli | ❌ |
@@ -61,8 +61,8 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 | One Piece | 1999 | 1075 | ❌ | 24 |
 | Shin-chan | 2000 | 930 | ✅ |
 | InuYasha | 2000 | 167 | ✅ |
-| InuYasha Kanketsu-Hen | 2009 | 26 | ❌ | 18 |
-| Naruto | 2002 | 220 | ❌ | 5 |
+| InuYasha Kanketsu-Hen | 2009 | 26 | ✅ |
+| Naruto | 2002 | 220 | ❌ | 13 |
 | Interstella 5555: The 5tory of the 5ecret 5tar 5ystem | 2003 | Peli | ✅ |
 | Planetes | 2003 | 26 | ✅ |
 | Fullmetal Alchemist | 2003 | 51 | ❌ |
