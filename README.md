@@ -14,7 +14,7 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 | Musculman | 1983 | 137 | ✅ |
 | Bola de Drac | 1986 | 153 | ✅ |
 | Bola de Drac Z | 1989 | 291 | ✅ |
-| Mobile Suit Gundam: The Origin | 1979 | 6 | ❌ | 5 |
+| Mobile Suit Gundam: The Origin Remake 2015 | 1979 | 6 | ✅ |
 | Gundam I | 1981 | Peli | ❌ |
 | Gundam II | 1981 | Peli | ❌ |
 | Gundam F91 | 1991 |	Peli | ❌ |
@@ -62,7 +62,7 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 | Shin-chan | 2000 | 930 | ✅ |
 | InuYasha | 2000 | 167 | ✅ |
 | InuYasha Kanketsu-Hen | 2009 | 26 | ✅ |
-| Naruto | 2002 | 220 | ❌ | 13 |
+| Naruto | 2002 | 220 | ❌ | 18 |
 | Interstella 5555: The 5tory of the 5ecret 5tar 5ystem | 2003 | Peli | ✅ |
 | Planetes | 2003 | 26 | ✅ |
 | Fullmetal Alchemist | 2003 | 51 | ❌ |
@@ -142,21 +142,21 @@ Llista de les meves 79 col·leccions i 575 manga que tinc actualment.
 
 | Títol | Editorial | Tomo | Preu |
 | :- | :- | -: | -: |
-| Bola de drac Definitiva | Planeta | 20/34 | 12,30€ |
-| One Piece | Planeta | 5/? | 16,00€ |
-| Death Note | Norma | 3/? | |
-| Maximum Berserk | Panini | 4/? | |
-| Evangelion | Norma | 4/? | |
-| Ranma 1/2 | Planeta | 2/? | |
-| Detectiu Conan | Planeta | 14/? | 8,10€ |
-| Guardians de la nit | Norma | 2/? | |
-| Jujutsu Kaisen | Norma | 2/? | |
-| Dan da dan | Norma | 3/? | |
-| Planeta Manga | Planeta | 21/? | 5,65€ |
+| Bola de drac Definitiva CAT | Planeta | 21/34 | 12,30€ |
+| One Piece CAT | Planeta | 6/? | 16,00€ |
+| Death Note CAT | Norma | 3/? | |
+| Maximum Berserk CAT | Panini | 5/? | |
+| Evangelion CAT | Norma | 4/? | |
+| Ranma 1/2 CAT | Planeta | 2/? | |
+| Detectiu Conan CAT | Planeta | 14/? | 8,10€ |
+| Guardians de la nit CAT | Norma | 2/? | |
+| Jujutsu Kaisen CAT | Norma | 3/? | |
+| Dan da dan | Norma | 4/? | |
+| Planeta Manga | Planeta | 23/? | 6,60€ |
 | Pluto | Planeta | 2/8 | |
 | Akira | Norma | 3/6 | 18,95€ |
 | Matagi Gunner | Norma | 2/? | |
-| Astroboy | Planeta | 1/7 | 24,00€ |
+| Astroboy | Planeta | 2/7 | 24,00€ |
 | Ghost in the shell Stand Alone Complex | Planeta | 1 | 13,25€ |
 | Ghost in the shell | Planeta | 1/2 | 19,00€ |
 | Video Girl AI | Planeta | 1/? | 16,10€ |
