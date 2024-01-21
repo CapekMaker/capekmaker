@@ -15,9 +15,6 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 | Bola de Drac | 1986 | 153 | ✅ |
 | Bola de Drac Z | 1989 | 291 | ✅ |
 | Mobile Suit Gundam: The Origin Remake 2015 | 1979 | 6 | ✅ |
-| Gundam I | 1981 | Peli | ❌ |
-| Gundam II | 1981 | Peli | ❌ |
-| Gundam F91 | 1991 |	Peli | ❌ |
 | Gundam SEED	| 2002 | 50 | ❌ |
 | Super Dimensional Fortress Macross | 1982 | 36 | ❌ |
 | Macross: Do you remember love? |1984| Peli | ❌ |
@@ -62,7 +59,7 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 | Shin-chan | 2000 | 930 | ✅ |
 | InuYasha | 2000 | 167 | ✅ |
 | InuYasha Kanketsu-Hen | 2009 | 26 | ✅ |
-| Naruto | 2002 | 220 | ❌ | 18 |
+| Naruto | 2002 | 220 | ❌ | 25 |
 | Interstella 5555: The 5tory of the 5ecret 5tar 5ystem | 2003 | Peli | ✅ |
 | Planetes | 2003 | 26 | ✅ |
 | Fullmetal Alchemist | 2003 | 51 | ❌ |
@@ -149,14 +146,13 @@ Llista de les meves 79 col·leccions i 575 manga que tinc actualment.
 | Evangelion CAT | Norma | 4/? | |
 | Ranma 1/2 CAT | Planeta | 2/? | |
 | Detectiu Conan CAT | Planeta | 14/? | 8,10€ |
-| Guardians de la nit CAT | Norma | 2/? | |
+| Guardians de la nit CAT | Norma | 3/? | |
 | Jujutsu Kaisen CAT | Norma | 3/? | |
 | Dan da dan | Norma | 4/? | |
 | Planeta Manga | Planeta | 23/? | 6,60€ |
 | Pluto | Planeta | 2/8 | |
 | Akira | Norma | 3/6 | 18,95€ |
 | Matagi Gunner | Norma | 2/? | |
-| Astroboy | Planeta | 2/7 | 24,00€ |
 | Ghost in the shell Stand Alone Complex | Planeta | 1 | 13,25€ |
 | Ghost in the shell | Planeta | 1/2 | 19,00€ |
 | Video Girl AI | Planeta | 1/? | 16,10€ |
