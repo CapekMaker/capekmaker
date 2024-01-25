@@ -26,6 +26,7 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 | Shin Captain Tsubasa | 1989 | 13 | ✅ |
 | Captain Tsubasa(2018) | 2018 | 52 | ✅ |
 | Hokuto no Ken El puño de la estrella del norte | 1986 |	Peli | ❌ |
+| Legend of the Galactic Heroes | 1988 | 110 | ❌ |
 | Akira |	1988 | Peli | ✅ |
 | Appleseed OVA	| 1988 | OVA | ✅ |
 | Kimagure Orange Road | 1988 | 48 | ❌ |
@@ -75,17 +76,21 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 | Steins; Gate | 2011 | 24 | ❌ |
 | Sakamichi no Apollon | 2012 | 12 | ✅ |
 | Sword Art Online | 2012 | 25 | ✅ |
+| Space Brothers | 2012 | 99 | ❌ |
+| Star Blazers 2199 | 2012 | 26 | ❌ |
 | Silver Spoon 1 i 2 | 2013 | 22 | ✅ |
 | Attack on titan 1st season | 2013 | 25 | ❌ |
 | Attack on titan 2nd season | 2017 | 12 | ❌ |
 | Attack on titan 3rd season | 2018 | 22 | ❌ |
 | Attack on titan 4th season | 2020 | 28 | ❌ |
 | Your lie in April | 2014 | 22 | ❌ |
+| Knights of Sidonia | 2014 | 12 | ❌ |
+| No Game No Life | 2014 | 12 | ❌ |
+| Space Dandy | 2014 | 26 | ❌ |
 | Tokyo Ghoul | 2014 | 12 | ✅ |
 | Tokyo Ghoul vA | 2015 | 12 | ❌ |
 | Tokyo Ghoul: "Jack" | 2015 | OVA | ❌ |
 | Tokyo Ghoul: "Pinto" | 2015 | OVA | ❌ |
-| No Game No Life | 2014 | 12 | ❌ |
 | The Seven Deadly Sins | 2014 | 24 | ❌ |
 | The Seven Deadly Sins OVA | 2015 | 2 | ❌ |
 | The Seven Deadly Sins: Seisen no Shirushi | 2016 | 4 | ❌ |
@@ -114,6 +119,7 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 | Darling in the FranXX | 2018 | 24 | ❌ |
 | Violet Evergarden | 2018 | 13 | ❌ |
 | Dr. Stone | 2019 | 24 | ❌ |
+| Astra Lost in Space | 2019 | 12 | ❌ |
 | Kimetsu no Yaiba | 2019 | 26 | ✅ |
 | Kimetsu no Yaiba: Mugen Ressha-hen | 2020 | Peli | ❌ |
 | Kimetsu no Yaiba: Yuukaku-hen | 2021 | 11 | ❌ |
