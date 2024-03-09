@@ -61,7 +61,7 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 | InuYasha | 2000 | 167 | ✅ |
 | InuYasha Kanketsu-Hen | 2009 | 26 | ✅ |
 | Naruto 1era temp | 2002 | 57 | ✅ |
-| Naruto 2ona temp | 2003 | 43 | ❌ | 3 |
+| Naruto 2ona temp | 2003 | 43 | ❌ | 23 |
 | Naruto 3era temp | 2004 | 41 | ❌ |
 | Naruto 4rta temp | 2005 | 42 | ❌ |
 | Naruto 5ena temp | 2006 | 37 | ❌ |
@@ -69,7 +69,7 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 | Planetes | 2003 | 26 | ✅ |
 | Fullmetal Alchemist | 2003 | 51 | ❌ |
 | Fullmetal Alchemist: Brotherhood | 2009 | 64 | ❌ |
-| Monster | 2004 | 74 | ❌ |
+| Monster | 2004 | 74 | ❌ | 20 |
 | Samurai Champloo | 2004 | 26 | ✅ |
 | Bleach | 2004 | 366 | ❌ |
 | Keroro Gunsou | 2004 | 358 | ❌ |
@@ -122,6 +122,7 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 | Black Clover | 2017 | 170 | ❌ | 51 |
 | Darling in the FranXX | 2018 | 24 | ❌ |
 | Violet Evergarden | 2018 | 13 | ❌ |
+| High Score Girl |2018 | 12 | ✅ |
 | Dr. Stone | 2019 | 24 | ❌ |
 | Astra Lost in Space | 2019 | 12 | ❌ |
 | Kimetsu no Yaiba | 2019 | 26 | ✅ |
