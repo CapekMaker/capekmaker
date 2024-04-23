@@ -69,7 +69,7 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 | Planetes | 2003 | 26 | ✅ |
 | Fullmetal Alchemist | 2003 | 51 | ❌ |
 | Fullmetal Alchemist: Brotherhood | 2009 | 64 | ❌ |
-| Monster | 2004 | 74 | ❌ | 44 |
+| Monster | 2004 | 74 | ❌ | 56 |
 | Samurai Champloo | 2004 | 26 | ✅ |
 | Bleach | 2004 | 366 | ❌ |
 | Keroro Gunsou | 2004 | 358 | ❌ |
@@ -159,17 +159,15 @@ Llista de les meves 79 col·leccions i 575 manga que tinc actualment.
 | Detectiu Conan CAT | Planeta | 14/? | 8,10€ |
 | Guardians de la nit CAT | Norma | 3/? | |
 | Jujutsu Kaisen CAT | Norma | 3/? | |
-| Dan da dan | Norma | 4/? | |
+| Dan da dan | Norma | 5/? | |
 | Planeta Manga | Planeta | 23/? | 6,60€ |
 | Pluto | Planeta | 2/8 | |
-| Akira | Norma | 3/6 | 18,95€ |
+| Akira | Norma | 5/6 | 18,95€ |
 | Matagi Gunner | Norma | 2/? | |
 | Ghost in the shell Stand Alone Complex | Planeta | 1 | 13,25€ |
 | Ghost in the shell | Planeta | 1/2 | 19,00€ |
 | Video Girl AI | Planeta | 1/? | 16,10€ |
 | De de de de | Norma | 2/12 | |
-| Kajika | Planeta | 1 | 11,35€ |
-| Mankan Zenski | Planeta | 1 | 12,30€ |
 | Monster | Planeta | 1 |
 | Master Keaton | Planeta | 1 |
 | One Piece Boichi | Planeta | 1/2 |
@@ -182,7 +180,7 @@ Llista de les meves 79 col·leccions i 575 manga que tinc actualment.
 
 Llista de totes les consoles que tinc.
 
-* Videopac G7000 Philips
+* Videopac G7000 Philips (Magnavox Odyssey 2)
 * Atari 2600 VCS
 * Sony MSX HB-20P Hit BIt
 * Nintendo NES
