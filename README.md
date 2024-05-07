@@ -49,6 +49,7 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 | Ruroni Kenshin | 1996 | 94 | ❌ |
 | Escaflowne | 1996 | 26 | ❌ |
 | Kochikame | 1996 | 373| ✅ |
+| La princesa Mononoke | 1997 | Peli | ✅ |
 | KareKano | 1998 | 26 | ✅ |
 | Cowboy Bebop | 1998 | 26 | ✅ |
 | Serial Experiments Lain | 1998 | 13 | ✅ |
@@ -69,7 +70,7 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 | Planetes | 2003 | 26 | ✅ |
 | Fullmetal Alchemist | 2003 | 51 | ❌ |
 | Fullmetal Alchemist: Brotherhood | 2009 | 64 | ❌ |
-| Monster | 2004 | 74 | ❌ | 61 |
+| Monster | 2004 | 74 | ❌ | 70 |
 | Samurai Champloo | 2004 | 26 | ✅ |
 | Bleach | 2004 | 366 | ❌ |
 | Keroro Gunsou | 2004 | 358 | ❌ |
