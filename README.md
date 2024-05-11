@@ -70,7 +70,7 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 | Planetes | 2003 | 26 | ✅ |
 | Fullmetal Alchemist | 2003 | 51 | ❌ |
 | Fullmetal Alchemist: Brotherhood | 2009 | 64 | ❌ |
-| Monster | 2004 | 74 | ❌ | 70 |
+| Monster | 2004 | 74 | ✅ |
 | Samurai Champloo | 2004 | 26 | ✅ |
 | Bleach | 2004 | 366 | ❌ |
 | Keroro Gunsou | 2004 | 358 | ❌ |
