@@ -81,6 +81,7 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 | Steins; Gate | 2011 | 24 | ❌ |
 | Sakamichi no Apollon | 2012 | 12 | ✅ |
 | Sword Art Online | 2012 | 25 | ✅ |
+| Kuroko no Basket | 2012 | 75 | ❌ | 1 |
 | Space Brothers | 2012 | 99 | ❌ |
 | Star Blazers 2199 | 2012 | 26 | ❌ |
 | Silver Spoon 1 i 2 | 2013 | 22 | ✅ |
