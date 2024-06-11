@@ -63,7 +63,7 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 | InuYasha Kanketsu-Hen | 2009 | 26 | ✅ |
 | Naruto 1era temp | 2002 | 57 | ✅ |
 | Naruto 2ona temp | 2003 | 43 | ✅ |
-| Naruto 3era temp | 2004 | 41 | ❌ | 00 |
+| Naruto 3era temp | 2004 | 41 | ❌ | 15 |
 | Naruto 4rta temp | 2005 | 42 | ❌ |
 | Naruto 5ena temp | 2006 | 37 | ❌ |
 | Interstella 5555: The 5tory of the 5ecret 5tar 5ystem | 2003 | Peli | ✅ |
@@ -81,7 +81,7 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 | Steins; Gate | 2011 | 24 | ❌ |
 | Sakamichi no Apollon | 2012 | 12 | ✅ |
 | Sword Art Online | 2012 | 25 | ✅ |
-| Kuroko no Basket | 2012 | 75 | ❌ | 1 |
+| Kuroko no Basket | 2012 | 75 | ❌ | 14 |
 | Space Brothers | 2012 | 99 | ❌ |
 | Star Blazers 2199 | 2012 | 26 | ❌ |
 | Silver Spoon 1 i 2 | 2013 | 22 | ✅ |
