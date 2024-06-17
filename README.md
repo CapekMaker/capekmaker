@@ -12,6 +12,8 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 | Dr. Slump | 1981 | 243 | ✅ |
 | Lamu, la petita extraterrestre - Urusei Yatsura | 1981 |	195 | ❌ |
 | Musculman | 1983 | 137 | ✅ |
+| Nausicaä de la Vall del Vent | 1984 | Peli | ✅ |
+| El castell al cel | 1986 | Peli | ✅ |
 | Bola de Drac | 1986 | 153 | ✅ |
 | Bola de Drac Z | 1989 | 291 | ✅ |
 | Mobile Suit Gundam: The Origin Remake 2015 | 1979 | 6 | ✅ |
@@ -30,7 +32,11 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 | Akira |	1988 | Peli | ✅ |
 | Appleseed OVA	| 1988 | OVA | ✅ |
 | Kimagure Orange Road | 1988 | 48 | ❌ |
+| La tomba de les lluernes | 1988 | Peli | ❌ |
+| El meu veí Totoro | 1988 | Peli | ✅ |
+| Kiki, l'aprenent de bruixa | 1989 | Peli | ❌ |
 | Ranma 1/2 |	1989 | 161 | ✅ |
+| Porco Rosso | 1992 | Peli | ❌ |
 | Yu Yu Hakusho | 1992 | 112 | ✅ |
 | Slam Dunk | 1993 | 101 | ❌ |
 | Marmalade Boy | 1994 | 76 | ❌ |
@@ -61,6 +67,7 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 | Shin-chan | 2000 | 930 | ✅ |
 | InuYasha | 2000 | 167 | ✅ |
 | InuYasha Kanketsu-Hen | 2009 | 26 | ✅ |
+| La Haru al regne dels gats | 2002 | Peli | ✅ |
 | Naruto 1era temp | 2002 | 57 | ✅ |
 | Naruto 2ona temp | 2003 | 43 | ✅ |
 | Naruto 3era temp | 2004 | 41 | ❌ | 15 |
