@@ -34,7 +34,7 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 | Kimagure Orange Road | 1988 | 48 | ❌ |
 | La tomba de les lluernes | 1988 | Peli | ❌ |
 | El meu veí Totoro | 1988 | Peli | ✅ |
-| Kiki, l'aprenent de bruixa | 1989 | Peli | ❌ |
+| Kiki, l'aprenent de bruixa | 1989 | Peli | ✅ |
 | Ranma 1/2 |	1989 | 161 | ✅ |
 | Porco Rosso | 1992 | Peli | ❌ |
 | Yu Yu Hakusho | 1992 | 112 | ✅ |
