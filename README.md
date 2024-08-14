@@ -70,7 +70,7 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 | La Haru al regne dels gats | 2002 | Peli | ✅ |
 | Naruto 1era temp | 2002 | 57 | ✅ |
 | Naruto 2ona temp | 2003 | 43 | ✅ |
-| Naruto 3era temp | 2004 | 41 | ❌ | 24 |
+| Naruto 3era temp | 2004 | 41 | ❌ | 54 |
 | Naruto 4rta temp | 2005 | 42 | ❌ |
 | Naruto 5ena temp | 2006 | 37 | ❌ |
 | Interstella 5555: The 5tory of the 5ecret 5tar 5ystem | 2003 | Peli | ✅ |
