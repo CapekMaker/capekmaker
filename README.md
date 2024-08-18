@@ -63,7 +63,7 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 | Utena | 1999 | 39 | ❌ |
 | GTO	| 1999 | 43 | ✅ |
 | Hunter x Hunter | 1999 | 62 | ❌ |
-| One Piece | 1999 | 1075 | ❌ | 24 |
+| One Piece | 1999 | 1075 | ❌ | 56 |
 | Shin-chan | 2000 | 930 | ✅ |
 | InuYasha | 2000 | 167 | ✅ |
 | InuYasha Kanketsu-Hen | 2009 | 26 | ✅ |
@@ -97,7 +97,7 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 | Attack on titan 3rd season | 2018 | 22 | ❌ |
 | Attack on titan 4th season | 2020 | 28 | ❌ |
 | Your lie in April | 2014 | 22 | ❌ |
-| Knights of Sidonia | 2014 | 12 | ❌ |
+| Knights of Sidonia | 2014 | 12 | ❌ | 5 |
 | No Game No Life | 2014 | 12 | ❌ |
 | Space Dandy | 2014 | 26 | ❌ |
 | Tokyo Ghoul | 2014 | 12 | ✅ |
