@@ -97,7 +97,8 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 | Attack on titan 3rd season | 2018 | 22 | ❌ |
 | Attack on titan 4th season | 2020 | 28 | ❌ |
 | Your lie in April | 2014 | 22 | ❌ |
-| Knights of Sidonia | 2014 | 12 | ❌ | 8 |
+| Knights of Sidonia 1st season | 2014 | 12 | ✅ |
+| Knights of Sidonia 2nd season | 2015 | 12 | ❌ | 1 |
 | No Game No Life | 2014 | 12 | ❌ |
 | Space Dandy | 2014 | 26 | ❌ |
 | Tokyo Ghoul | 2014 | 12 | ✅ |
