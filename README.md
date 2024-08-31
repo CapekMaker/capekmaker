@@ -63,7 +63,7 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 | Utena | 1999 | 39 | ❌ |
 | GTO	| 1999 | 43 | ✅ |
 | Hunter x Hunter | 1999 | 62 | ❌ |
-| One Piece | 1999 | 1075 | ❌ | 74 |
+| One Piece | 1999 | 1075 | ❌ | 82 |
 | Shin-chan | 2000 | 930 | ✅ |
 | InuYasha | 2000 | 167 | ✅ |
 | InuYasha Kanketsu-Hen | 2009 | 26 | ✅ |
@@ -147,7 +147,7 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 | Ranking of Kings | 2021 | 23 | ✅ |
 | Chainsaw Man | 2022 | 12 | ✅ |
 | Pluto | 2023 | 8 | ❌ | 1 |
-| The apotecary diaries | 2023 | 8 | ❌ |
+| The apotecary diaries | 2023 | 24 | ❌ | 9 |
 
 
 ## - MANGA -
