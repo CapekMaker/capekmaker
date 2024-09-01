@@ -147,12 +147,12 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 | Ranking of Kings | 2021 | 23 | ✅ |
 | Chainsaw Man | 2022 | 12 | ✅ |
 | Pluto | 2023 | 8 | ❌ | 1 |
-| The apotecary diaries | 2023 | 24 | ❌ | 9 |
+| The apotecary diaries | 2023 | 24 | ❌ | 10 |
 
 
 ## - MANGA -
 
-Llista de les meves 79 col·leccions i 575 manga que tinc actualment.
+Llista de les meves 89 col·leccions i 682 manga que tinc actualment.
 
 [<kbd>**LLISTA**](https://www.whakoom.com/aspeiscauboi/collection)</kbd>
 
