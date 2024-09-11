@@ -138,16 +138,17 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 | Kimetsu no Yaiba | 2019 | 26 | ✅ |
 | Kimetsu no Yaiba: Mugen Ressha-hen | 2020 | Peli | ❌ |
 | Kimetsu no Yaiba: Yuukaku-hen | 2021 | 11 | ❌ |
-| Fruits Basket 1st S | 2019 | 25 | ❌ |
-| Fruits Basket 2nd S | 2020 | 25 | ❌ |
+| Fruits Basket 1st season | 2019 | 25 | ❌ |
+| Fruits Basket 2nd season | 2020 | 25 | ❌ |
 | Vinland Saga | 2019 | 24 | ❌ |
 | Vinland Saga Season 2 | 2023 | 24 | ❌ |
-| Jujutsu Kaisen 1st | 2020 | 24 | ❌ |
-| Jujutsu Kaisen 2nd | 2023 | 23 | ❌ |
+| Jujutsu Kaisen 1st season | 2020 | 24 | ❌ |
+| Jujutsu Kaisen 2nd season | 2023 | 23 | ❌ |
 | Ranking of Kings | 2021 | 23 | ✅ |
 | Chainsaw Man | 2022 | 12 | ✅ |
 | Pluto | 2023 | 8 | ❌ | 1 |
-| The apotecary diaries | 2023 | 24 | ❌ | 10 |
+| The apotecary diaries 1st season | 2023 | 24 | ✅ |
+| The apotecary diaries 2nd season | ? | ? | ❌ |
 
 
 ## - MANGA -
