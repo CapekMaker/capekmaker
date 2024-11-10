@@ -98,7 +98,7 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 | Attack on titan 4th season | 2020 | 28 | ❌ |
 | Your lie in April | 2014 | 22 | ❌ |
 | Knights of Sidonia 1st season | 2014 | 12 | ✅ |
-| Knights of Sidonia 2nd season | 2015 | 12 | ❌ | 1 |
+| Knights of Sidonia 2nd season | 2015 | 12 | ✅ |
 | No Game No Life | 2014 | 12 | ❌ |
 | Space Dandy | 2014 | 26 | ❌ |
 | Tokyo Ghoul | 2014 | 12 | ✅ |
@@ -161,7 +161,7 @@ Llista de les meves 89 col·leccions i 682 manga que tinc actualment.
 
 | Títol | Editorial | Tomo | Preu |
 | :- | :- | -: | -: |
-| Bola de drac Definitiva CAT | Planeta | 21/34 | 12,30€ |
+| Bola de drac Definitiva CAT | Planeta | 24/34 | 12,30€ |
 | One Piece CAT | Planeta | 6/? | 16,00€ |
 | Death Note CAT | Norma | 3/? | |
 | Maximum Berserk CAT | Panini | 5/? | |
@@ -182,7 +182,6 @@ Llista de les meves 89 col·leccions i 682 manga que tinc actualment.
 | Monster | Planeta | 1 |
 | Master Keaton | Planeta | 1 |
 | One Piece Boichi | Planeta | 1/2 |
-| Okaasan | Norma | 1/1 |
 | Journey: the art of Carles Dalmau | Norma | 1/1 |
 | DNA2 | ??? |
 | I"s | ??? |
