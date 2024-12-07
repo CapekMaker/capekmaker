@@ -92,8 +92,8 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 | Space Brothers | 2012 | 99 | ❌ |
 | Star Blazers 2199 | 2012 | 26 | ❌ |
 | Silver Spoon 1 i 2 | 2013 | 22 | ✅ |
-| Attack on titan 1st season | 2013 | 25 | ❌ |
-| Attack on titan 2nd season | 2017 | 12 | ❌ |
+| Attack on titan 1st season | 2013 | 25 | ✅ |
+| Attack on titan 2nd season | 2017 | 12 | ✅ |
 | Attack on titan 3rd season | 2018 | 22 | ❌ |
 | Attack on titan 4th season | 2020 | 28 | ❌ |
 | Your lie in April | 2014 | 22 | ❌ |
@@ -153,7 +153,7 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 
 ## - MANGA -
 
-Llista de les meves 89 col·leccions i 682 manga que tinc actualment.
+Llista de les meves 91 col·leccions i 740 manga que tinc actualment.
 
 [<kbd>**LLISTA**](https://www.whakoom.com/aspeiscauboi/collection)</kbd>
 
@@ -164,17 +164,17 @@ Llista de les meves 89 col·leccions i 682 manga que tinc actualment.
 | Bola de drac Definitiva CAT | Planeta | 24/34 | 12,30€ |
 | One Piece CAT | Planeta | 6/? | 16,00€ |
 | Death Note CAT | Norma | 3/? | |
-| Maximum Berserk CAT | Panini | 5/? | |
-| Evangelion CAT | Norma | 4/? | |
+| Maximum Berserk CAT | Panini | 7/? | |
+| Evangelion CAT | Norma | 5/? | |
 | Ranma 1/2 CAT | Planeta | 2/? | |
 | Detectiu Conan CAT | Planeta | 14/? | 8,10€ |
-| Guardians de la nit CAT | Norma | 3/? | |
-| Jujutsu Kaisen CAT | Norma | 3/? | |
+| Guardians de la nit CAT | Norma | 7/? | |
+| Jujutsu Kaisen CAT | Norma | 7/? | |
+| Doraemon CAT | 0/15 |
 | Dan da dan | Norma | 5/? | |
 | Planeta Manga | Planeta | 23/? | 6,60€ |
 | Pluto | Planeta | 2/8 | |
-| Akira | Norma | 5/6 | 18,95€ |
-| Matagi Gunner | Norma | 2/? | |
+| Matagi Gunner | Norma | 4/? | |
 | Ghost in the shell Stand Alone Complex | Planeta | 1 | 13,25€ |
 | Ghost in the shell | Planeta | 1/2 | 19,00€ |
 | Video Girl AI | Planeta | 1/? | 16,10€ |
@@ -182,7 +182,6 @@ Llista de les meves 89 col·leccions i 682 manga que tinc actualment.
 | Monster | Planeta | 1 |
 | Master Keaton | Planeta | 1 |
 | One Piece Boichi | Planeta | 1/2 |
-| Journey: the art of Carles Dalmau | Norma | 1/1 |
 | DNA2 | ??? |
 | I"s | ??? |
 
