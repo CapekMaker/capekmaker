@@ -36,6 +36,8 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 | El meu veí Totoro | 1988 | Peli | ✅ |
 | Kiki, l'aprenent de bruixa | 1989 | Peli | ✅ |
 | Ranma 1/2 |	1989 | 161 | ✅ |
+| Patlabor 1 | 1989 | Peli | ❌ |
+| Patlabor 2 | 1993 | Peli | ❌ |
 | Porco Rosso | 1992 | Peli | ✅ |
 | Yu Yu Hakusho | 1992 | 112 | ✅ |
 | Slam Dunk | 1993 | 101 | ❌ |
