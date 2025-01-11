@@ -173,14 +173,11 @@ Llista de les meves 91 col·leccions i 740 manga que tinc actualment.
 | Guardians de la nit CAT | Norma | 7/? | |
 | Jujutsu Kaisen CAT | Norma | 7/? | |
 | Doraemon CAT | 0/15 |
-| Dan da dan | Norma | 5/? | |
-| Planeta Manga | Planeta | 23/? | 6,60€ |
-| Pluto | Planeta | 2/8 | |
+| Dan da dan | Norma | 7/? | |
 | Matagi Gunner | Norma | 4/? | |
 | Ghost in the shell Stand Alone Complex | Planeta | 1 | 13,25€ |
 | Ghost in the shell | Planeta | 1/2 | 19,00€ |
 | Video Girl AI | Planeta | 1/? | 16,10€ |
-| De de de de | Norma | 2/12 | |
 | Monster | Planeta | 1 |
 | Master Keaton | Planeta | 1 |
 | One Piece Boichi | Planeta | 1/2 |
