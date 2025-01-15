@@ -97,7 +97,7 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 | Attack on titan 1st season | 2013 | 25 | ✅ |
 | Attack on titan 2nd season | 2017 | 12 | ✅ |
 | Attack on titan 3rd season | 2018 | 22 | ✅ |
-| Attack on titan 4th season | 2020 | 30 | ❌ |
+| Attack on titan 4th season | 2020 | 30 | ✅ |
 | Your lie in April | 2014 | 22 | ❌ |
 | Knights of Sidonia 1st season | 2014 | 12 | ✅ |
 | Knights of Sidonia 2nd season | 2015 | 12 | ✅ |
