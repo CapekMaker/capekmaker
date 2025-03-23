@@ -36,8 +36,8 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 | El meu veí Totoro | 1988 | Peli | ✅ |
 | Kiki, l'aprenent de bruixa | 1989 | Peli | ✅ |
 | Ranma 1/2 |	1989 | 161 | ✅ |
-| Patlabor 1 | 1989 | Peli | ❌ |
-| Patlabor 2 | 1993 | Peli | ❌ |
+| Patlabor 1 | 1989 | Peli | ✅ |
+| Patlabor 2 | 1993 | Peli | ✅ |
 | Porco Rosso | 1992 | Peli | ✅ |
 | Yu Yu Hakusho | 1992 | 112 | ✅ |
 | Slam Dunk | 1993 | 101 | ❌ |
@@ -99,6 +99,7 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 | Attack on titan 3rd season | 2018 | 22 | ✅ |
 | Attack on titan 4th season | 2020 | 30 | ✅ |
 | Your lie in April | 2014 | 22 | ❌ |
+| Zankyō no Teroru | 2014 | 11 | ❌ |
 | Knights of Sidonia 1st season | 2014 | 12 | ✅ |
 | Knights of Sidonia 2nd season | 2015 | 12 | ✅ |
 | No Game No Life | 2014 | 12 | ❌ |
