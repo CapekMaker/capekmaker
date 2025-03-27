@@ -65,7 +65,7 @@ Llista amb tot l'anime que he vist, estic veient o em falta per veure.
 | Utena | 1999 | 39 | ❌ |
 | GTO	| 1999 | 43 | ✅ |
 | Hunter x Hunter | 1999 | 62 | ❌ |
-| One Piece | 1999 | 1075 | ❌ | 82 |
+| One Piece | 1999 | 1075 | ❌ | 108 |
 | Shin-chan | 2000 | 930 | ✅ |
 | InuYasha | 2000 | 167 | ✅ |
 | InuYasha Kanketsu-Hen | 2009 | 26 | ✅ |
